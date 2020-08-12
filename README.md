@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The main goal of this lab repository consists in construct the bases for React Apps. The project is in progress.
+
+=======================================================================================
+
 ## Available Scripts
 
 In the project directory, you can run:
